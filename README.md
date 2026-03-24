@@ -26,10 +26,9 @@ Retail businesses often struggle to understand *who* their customers are and *wh
 ## 🔄 Project Workflow
 1. **Data Collection** — Loaded raw customer shopping dataset (3,900+ transactions)
 2. **Data Cleaning** — Handled missing values, removed duplicates, standardized formats using Python Pandas
-3. **Feature Engineering** — Created age groups and purchase frequency features
-4. **SQL Analysis** — Queried customer segments, age groups, and purchasing patterns using SQL Server
-5. **Customer Segmentation** — Applied K-Means Clustering to identify distinct customer groups
-6. **Dashboard Creation** — Built interactive Power BI dashboard with KPIs and business insights
+3. **SQL Analysis** — Queried customer segments, age groups, and purchasing patterns using SQL Server
+4. **Customer Segmentation** — Applied K-Means Clustering to identify distinct customer groups
+5. **Dashboard Creation** — Built interactive Power BI dashboard with KPIs and business insights
 
 ---
 
@@ -37,15 +36,8 @@ Retail businesses often struggle to understand *who* their customers are and *wh
 - Identified distinct customer segments with significantly different purchase values and frequency
 - Certain age groups consistently outperformed others in total spend
 - Specific product categories drove the majority of revenue
-- K-Means clustering revealed actionable segments for targeted marketing strategies
 
----
 
-## 📁 Files in This Repository
-| File | Description |
-|------|-------------|
-| Customer Behaviour Analysis Report | Full project report with methodology and findings |
-| Power BI Dashboard | Interactive dashboard (open with Power BI Desktop) |
 
 ## 💡 Key Skills Demonstrated
 - End-to-end data analysis pipeline
